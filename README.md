@@ -23,7 +23,7 @@ This repo studies that missing layer:
 ## What this repo is
 
 - A position on agent memory architecture
-- A prototype-oriented implementation package
+- A research-oriented documentation repo
 - A distinction between memory infrastructure and memory formation
 
 ## What this repo is not
@@ -38,9 +38,6 @@ This repo studies that missing layer:
 
 - [Position Paper](docs/position-paper.md)
 - [Terms and Boundaries](docs/terms.md)
-- [Architecture Notes](docs/architecture/architecture.md)
-- [Protocol Docs](docs/protocol/reality-first.md)
-- [MCP Boundary](docs/protocol/mcp-boundary.md)
 
 ## Working model
 
@@ -59,7 +56,7 @@ Experience Flow
 -> Updater / Rebuild
 ```
 
-The implementation package in this repo is still pragmatic and partial. The conceptual layer is ahead of the validated product layer.
+This repository is intentionally narrow. It currently publishes the conceptual layer only.
 
 ## Why publish now
 
